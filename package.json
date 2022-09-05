@@ -57,7 +57,7 @@
     "prettier": "^2.7.1",
     "typescript": "^4.8.2",
     "typescript-language-server": "^1.1.2",
-    "unit-test-ts": "^1.1.2",
+    "unit-test-ts": "^1.3.0",
     "vite": "^3.0.9",
     "vitest": "^0.22.1"
   }
